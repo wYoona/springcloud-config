@@ -1,2 +1,2 @@
-info
-  nice to meet you
+config:
+  info: nice to meet you
